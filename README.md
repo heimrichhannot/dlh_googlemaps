@@ -1,7 +1,7 @@
 dlh_googlemaps
 =========
 
-> For Contao 4 we recommendd [Contao Google Maps Bundle
+> For Contao 4 we recommend [Contao Google Maps Bundle
 ](https://github.com/heimrichhannot/contao-google-maps-bundle)
 
 Extension for Contao CMS
